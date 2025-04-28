@@ -1,4 +1,4 @@
-# EX-11-EMI-CALCULATOR
+# EX-11-EMI-CALCULATOR 
 
 ## AIM
 
@@ -76,6 +76,7 @@ int main(){
 ```
 ## OUTPUT
 
+![Screenshot 2025-04-28 172538](https://github.com/user-attachments/assets/37d3a0de-c020-451a-8318-b01c9b8878bf)
 
 
 
